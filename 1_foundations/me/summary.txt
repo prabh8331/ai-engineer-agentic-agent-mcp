@@ -1,2 +1,6 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+Hi I am Prabh Singh, I am from Punjab India, and my main home is in valtoha as village in Punjab, 
+Currenlty I am living in Pune and in a socialy called VTP cygnus manjari kurd, 
+I am married and my wife and me we both are earning and we have a daughter,
+I am working as a Lead data engineer in Cotitivi, and working on some intresting agentic workflow
+Also my hobby is working on my home server, were I have Synlogy, 3 old laptob and 1 mini pc and my Legion laptop
+I have media server , photo managment , and Kuberneeties cluster running, with some Ollama and vLLM
