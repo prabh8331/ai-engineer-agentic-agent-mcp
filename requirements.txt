@@ -688,3 +688,5 @@ zipp==3.23.0
     # via importlib-metadata
 zstandard==0.23.0
     # via langsmith
+arize-phoenix>=0.6.0
+openinference-instrumentation-openai-agents>=0.1.0
