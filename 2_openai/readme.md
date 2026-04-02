@@ -1,3 +1,9 @@
+# Week2
+
+# async python
+
+coroutine
+
 ## 🧠 Think in terms of **requests, not sessions**
 
 When 3–5 users hit your dashboard:
@@ -153,3 +159,11 @@ A lightweight, non-opinionated framework — it doesn't enforce a rigid way of d
 **Key rule:** always understand every line. Vibe coding turns painful the moment you lose track of what's actually happening.
 
 **The core philosophy:** treat LLMs like a pair programmer — collaborate in small testable increments, cross-check answers, and never ship code you don't understand.
+
+
+
+
+
+
+
+
