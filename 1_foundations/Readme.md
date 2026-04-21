@@ -4,7 +4,7 @@
 
 `AI Agents are programs where LLM outputs control the workflow`
 
-In prectice, describes an AI solution that involes any or all of these:
+In practice, describes an AI solution that involes any or all of these:
 
 1. Multiple LLM calls
 2. LLMs with ability to use Tools
